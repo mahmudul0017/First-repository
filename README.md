@@ -1,4 +1,4 @@
 # First-repository
 This is my first repository.
 <br>
-Author- Mahmudul Haque
+Author- Mahmudul Haq
